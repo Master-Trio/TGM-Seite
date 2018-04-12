@@ -1,3 +1,46 @@
 .contrast { filter: contrast(160%); }
 
 .contrast { filter: contrast(140%); }
+
+.sexyvideo{
+    width:80%;
+    height:100px;
+    background-color:#000000;
+    margin-left:10%;
+    margin-right:10%;
+  }
+
+.cont {
+    width: 100%;
+}
+
+.wic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%
+}
+
+.abte {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #575757;
+    border-radius: 7px;
+    border: 2px solid #dedede;
+    padding: 10px;
+    text-align: center;
+    color: #dedede;
+}
+
+.abte:hover {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #dedede;
+    border-radius: 7px;
+    border: 2px solid #575757;
+    padding: 10px;
+    text-align: center;
+    color: #575757;
+    cursor: pointer;
+}
+
