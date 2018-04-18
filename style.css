@@ -7,15 +7,21 @@ body {
     overflow-x: hidden;
 }
 
-.contrast { filter: contrast(140%); }
+h3 {
+    font-family: 'Varela Round', sans-serif;
+}
 
-.sexyvideo{
-    width:80%;
-    height:100px;
-    background-color:#000000;
-    margin-left:10%;
-    margin-right:10%;
-  }
+.contrast {
+    filter: contrast(140%);
+}
+
+.sexyvideo {
+    width: 80%;
+    height: 100px;
+    background-color: #000000;
+    margin-left: 10%;
+    margin-right: 10%;
+}
 
 .cont {
     width: 100%;
