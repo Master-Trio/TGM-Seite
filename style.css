@@ -187,9 +187,18 @@ h3 {
     border-left: 3px solid white;
 }
 
+.news {
+    background: #575757;
+    color: #dedede;
+    margin-top: 66px;
+    padding-top: 30px;
+    padding-right: 50px;
+}
 
-
-
+.im {
+    height: 50%;
+    width: auto;
+}
 
 
 
