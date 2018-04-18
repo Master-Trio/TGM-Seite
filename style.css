@@ -11,6 +11,10 @@ h3 {
     font-family: 'Varela Round', sans-serif;
 }
 
+.schrift {
+    color: #dedede;
+}
+
 .contrast {
     filter: contrast(140%);
 }
@@ -52,6 +56,36 @@ h3 {
 
 .cont:hover .anc {
     width: 100px;
+}
+
+.abteTagesAn {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #dedede;
+    border-radius: 7px;
+    border: 2px solid #575757;
+    padding: 10px;
+    text-align: center;
+    color: #575757;
+}
+
+.abteTagesAn:hover {
+    background-color: #575757;
+    border: 2px solid #dedede;
+    color: #dedede;
+    cursor: pointer;
+}
+
+@media only screen and (min-width: 420px) {
+    .abteTagesAn {
+        width: 250px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .abteTagesAn {
+        width: 150px;
+    }
 }
 
 .abteTages {
