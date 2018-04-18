@@ -127,3 +127,13 @@ body {
     margin-left: 15%;
     margin-right: 15%;
 }
+
+.fuss {
+    width: 100%;
+	margin:0;
+	padding: 0;
+	overflow-x: hidden;
+    background-color: #464646;
+    color: white
+}
+
